@@ -1,4 +1,4 @@
-date,open,high,low,close,volume,profit or not
+date,stock_start_rate,highest_rate,lowest_rate,stock_close_rate,stock_quan,profit 
 12-12-1980,0.1003,0.1007,0.1003,0.1003,469033600,0
 15-12-1980,0.0955,0.0955,0.0951,0.0951,175884800,1
 16-12-1980,0.0885,0.0885,0.0881,0.0881,105728000,1
